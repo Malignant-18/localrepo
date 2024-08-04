@@ -1,3 +1,3 @@
 # This is a local repo
 hello guys
-This is a code for branch
+This is a code for main
